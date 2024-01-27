@@ -86,3 +86,4 @@ console.log(Object.getOwnPropertyDescriptors(person))
 /** 
 console.log(Object.hasOwn(person,"name"))
 console.log(Object.hasOwn(person,"company")) **/
+
